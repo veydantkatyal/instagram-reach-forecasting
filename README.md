@@ -49,7 +49,8 @@ Open `instagram_reach_forecasting.ipynb` in Jupyter Notebook or Google Colab and
 - Fitted a SARIMAX model with parameters `(p=8, d=1, q=2)` and seasonal order `(8, 1, 2, 12)`
 - Forecasts future Instagram reach for the next 12 months
 - Visualizes predictions with confidence intervals
-
+![](./results/sarima-forecasting.png)
+![](./results/time-series-forecasting.png)
 ---
 
 ## Future Improvements
